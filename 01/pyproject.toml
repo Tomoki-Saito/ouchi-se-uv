@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = [{ name = "Ayaka Ikezawa", email = "hello@ikeay.net" }]
 readme = "README.md"
-requires-python = ">= 3.13"
+requires-python = ">= 3.12"
 dependencies = [
   "schedule>=1.2.2",
   "pushbullet-py>=0.12.0",
